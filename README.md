@@ -19,3 +19,5 @@ A simple React-based To-Do application I built to practice component structure, 
 ## Purpose
 
 Created to improve my understanding of props, lifting state up, and managing arrays of items in React.
+
+<img width="2879" height="1284" alt="Screenshot 2025-12-11 220823" src="https://github.com/user-attachments/assets/1d310593-f7aa-481f-803c-9b6cae878a7f" />

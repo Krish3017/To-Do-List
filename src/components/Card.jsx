@@ -2,7 +2,7 @@ import React from "react";
 
 const Card = ({ task, onEdit, onDelete }) => {
   return (
-    <div className="bg-white border-black border-2 rounded-2xl text-black flex h-18 w-180 items-center justify-between mt-15 ml-130">
+    <div className="bg-white border-black border-2 rounded-2xl text-black flex h-12 w-180 items-center justify-between mt-5 ml-80">
       <div className="px-3 text-xl text-black">
         {task.text || "No task yet"}
       </div>
